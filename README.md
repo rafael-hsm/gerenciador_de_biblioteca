@@ -25,3 +25,9 @@
 [x] Pycharm
 
 [x] Django
+
+## Aplicação publicada
+
+**Basta clicar no link para acessar a solução** 😉
+
+[x] - [Heroku](https://biblioteca-rhsm.herokuapp.com/)
