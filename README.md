@@ -20,6 +20,8 @@
 
 ## Ferramentas utilizadas
 
-[x] PYTHON 3
+[x] Python 3.9
+
 [x] Pycharm
+
 [x] Django
