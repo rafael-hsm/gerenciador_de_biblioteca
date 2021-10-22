@@ -1,0 +1,10 @@
+-r requirements.in
+codecov
+django-debug-toolbar
+flake8
+gunicorn
+model-mommy
+pytest
+pytest-cov
+pytest-django
+python-decouple
